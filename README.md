@@ -16,3 +16,7 @@ If the property doesn't exist already, it will add it.  If it already exists, it
 ## Postcodes
 
 Postcodes should be saved in a folder in the main repository called "master_postcode_lists"
+
+
+## SQLITE database
+Refer to function "create_tables" in in "flats_tools".
