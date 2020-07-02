@@ -19,4 +19,4 @@ Postcodes should be saved in a folder in the main repository called "master_post
 
 
 ## SQLITE database
-Refer to function "create_tables" in in "flats_tools".
+Refer to function "create_tables" in "flats_tools".
